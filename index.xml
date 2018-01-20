@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anand Parwal</title>
-    <link>https://andy--.github.io/</link>
+    <link>https://aparwal.github.io/</link>
     <description>Recent content on Anand Parwal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://andy--.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aparwal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

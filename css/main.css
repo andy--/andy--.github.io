@@ -100,12 +100,17 @@ footer {
 
 .thumb {
     float:right;
-    max-width: 25%;
-    min-width: 40px;
+    max-width: 192px;
+    /*min-width: 50px;*/
     max-height: auto;
 }
-
+/*
 img {
     max-width: 100%;
 }
-
+*/
+.linkers{
+    font-size: 125%;
+    width: 30px;
+    display: inline-block;
+}
