@@ -72,9 +72,9 @@ a:hover {
 
 .item {
     padding: 10px 0;
-    display: inline-block;
-    clear :left;
-    float: left;
+    /*display: inline-block;*/
+    clear :both;
+    /*float: left;*/
 }
 
 .item-tag {
@@ -102,8 +102,8 @@ footer {
     float:right;
     max-width: 192px;
     /*min-width: 50px;*/
-    max-height: auto;
-}
+/*    max-height: auto;
+*/}
 /*
 img {
     max-width: 100%;
