@@ -6,9 +6,91 @@
     <description>Recent content in Tags on Anand Parwal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aparwal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agile</title>
+      <link>https://aparwal.github.io/tags/agile/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://aparwal.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cad</title>
+      <link>https://aparwal.github.io/tags/cad/</link>
+      <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/tags/cad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics</title>
+      <link>https://aparwal.github.io/tags/dynamics/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/tags/dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opencv</title>
+      <link>https://aparwal.github.io/tags/opencv/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openrave</title>
+      <link>https://aparwal.github.io/tags/openrave/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/tags/openrave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://aparwal.github.io/tags/python/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swarm Robotics</title>
+      <link>https://aparwal.github.io/tags/swarm-robotics/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/tags/swarm-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://aparwal.github.io/tags/tensorflow/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

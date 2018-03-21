@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openrave on Anand Parwal</title>
+    <link>https://aparwal.github.io/tags/openrave/</link>
+    <description>Recent content in Openrave on Anand Parwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aparwal.github.io/tags/openrave/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Motion Planning for Deformable Objects without Modelling</title>
+      <link>https://aparwal.github.io/projects/deformable/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/deformable/</guid>
+      <description>Developed a concept of Deformation Cost, taking into acccount the deformabillity and the sensitivity of every voxel of an object which when combined with usual A* heuristic for path length enables non-expensive motion planning for deformable objects. Also implemented a true collision check.</description>
+    </item>
+    
+  </channel>
+</rss>

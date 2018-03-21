@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Anand Parwal</title>
+    <link>https://aparwal.github.io/projects/</link>
+    <description>Recent content in Projects on Anand Parwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aparwal.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Collective transport by robots without communication</title>
+      <link>https://aparwal.github.io/projects/swarmcollective/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/swarmcollective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepSeparation</title>
+      <link>https://aparwal.github.io/projects/deepseparation/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/deepseparation/</guid>
+      <description>Developed and implemented a recurring neural network to separate two speech sources and music/vocals from mixture of audio inputs (cocktail party problem)
+Developed using custom keras/tensorflow time-frequency masking layers</description>
+    </item>
+    
+    <item>
+      <title>Motion Planning for Deformable Objects without Modelling</title>
+      <link>https://aparwal.github.io/projects/deformable/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/deformable/</guid>
+      <description>Developed a concept of Deformation Cost, taking into acccount the deformabillity and the sensitivity of every voxel of an object which when combined with usual A* heuristic for path length enables non-expensive motion planning for deformable objects. Also implemented a true collision check.</description>
+    </item>
+    
+    <item>
+      <title>Weakly supervised object detection</title>
+      <link>https://aparwal.github.io/projects/weakly_supervision/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/weakly_supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space Robotics Challenge</title>
+      <link>https://aparwal.github.io/projects/src/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/src/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft, Passive Exoskeleton for Augmenting Lower Body Motion </title>
+      <link>https://aparwal.github.io/projects/exosuit/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/exosuit/</guid>
+      <description>A soft, passive, multi-joint exosuit was developed for the purpose of lower body augmentation to aid the user with the performance of walking, running, and jumping. Through OpenSim simulations, key muscles at specific joints were identified and analyzed for major contributions in total fiber force and moment created amongst other key factors. Torque results obtained from OpenSim were verified using MATLAB through the implementation of the Newton-Euler method to ensure reliable results.</description>
+    </item>
+    
+    <item>
+      <title>Humanoid - Acyut</title>
+      <link>https://aparwal.github.io/projects/acyut/</link>
+      <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/acyut/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

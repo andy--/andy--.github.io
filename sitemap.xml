@@ -3,7 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aparwal.github.io/projects/swarmcollective/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/projects/deepseparation/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/projects/deformable/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/projects/weakly_supervision/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/projects/src/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/projects/exosuit/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/projects/acyut/</loc>
+    <lastmod>2015-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/tags/agile/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://aparwal.github.io/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/tags/cad/</loc>
+    <lastmod>2015-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,7 +67,50 @@
   </url>
   
   <url>
+    <loc>https://aparwal.github.io/tags/dynamics/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/tags/opencv/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/tags/openrave/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/projects/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/tags/python/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/tags/swarm-robotics/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://aparwal.github.io/tags/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aparwal.github.io/tags/tensorflow/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

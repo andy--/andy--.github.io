@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Anand Parwal</title>
+    <link>https://aparwal.github.io/tags/python/</link>
+    <description>Recent content in Python on Anand Parwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aparwal.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeepSeparation</title>
+      <link>https://aparwal.github.io/projects/deepseparation/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/deepseparation/</guid>
+      <description>Developed and implemented a recurring neural network to separate two speech sources and music/vocals from mixture of audio inputs (cocktail party problem)
+Developed using custom keras/tensorflow time-frequency masking layers</description>
+    </item>
+    
+    <item>
+      <title>Weakly supervised object detection</title>
+      <link>https://aparwal.github.io/projects/weakly_supervision/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/weakly_supervision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

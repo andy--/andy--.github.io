@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamics on Anand Parwal</title>
+    <link>https://aparwal.github.io/tags/dynamics/</link>
+    <description>Recent content in Dynamics on Anand Parwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aparwal.github.io/tags/dynamics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soft, Passive Exoskeleton for Augmenting Lower Body Motion </title>
+      <link>https://aparwal.github.io/projects/exosuit/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/exosuit/</guid>
+      <description>A soft, passive, multi-joint exosuit was developed for the purpose of lower body augmentation to aid the user with the performance of walking, running, and jumping. Through OpenSim simulations, key muscles at specific joints were identified and analyzed for major contributions in total fiber force and moment created amongst other key factors. Torque results obtained from OpenSim were verified using MATLAB through the implementation of the Newton-Euler method to ensure reliable results.</description>
+    </item>
+    
+    <item>
+      <title>Humanoid - Acyut</title>
+      <link>https://aparwal.github.io/projects/acyut/</link>
+      <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://aparwal.github.io/projects/acyut/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
